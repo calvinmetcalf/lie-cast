@@ -20,7 +20,6 @@
     "url": "https://github.com/calvinmetcalf/lie-cast/issues"
   },
   "devDependencies": {
-    "grunt-browserify": "~1.2.9",
     "mocha-as-promised": "~1.4.0",
     "chai-as-promised": "~4.0.0",
     "chai": "~1.8.1",
