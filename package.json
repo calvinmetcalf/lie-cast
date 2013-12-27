@@ -4,7 +4,7 @@
   "description": "cast a lie",
   "main": "lib/cast.js",
   "scripts": {
-    "test": "./node_modules/istanbul/lib/cli.js test ./node_modules/mocha/bin/_mocha test/test.js"
+    "test": "./node_modules/istanbul/lib/cli.js test ./node_modules/mocha/bin/_mocha test/tests.js"
   },
   "repository": {
     "type": "git",
