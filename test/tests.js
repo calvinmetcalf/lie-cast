@@ -1,6 +1,5 @@
 'use strict';
 var cast = require('../lib/cast');
-var resolve = require('lie-resolve');
 var promise = require('lie');
 require("mocha-as-promised")();
 var chai = require("chai");
